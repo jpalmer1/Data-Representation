@@ -1,0 +1,7 @@
+Is -l[D[D[D[l[C[C[C[C jp.txt
+ls jp.txt
+dir
+
+cd jp
+cd..
+c
